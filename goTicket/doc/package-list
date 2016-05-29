@@ -1,0 +1,4 @@
+com.asmita.movieTicket.entity
+com.asmita.movieTicket.entity.impl
+com.asmita.movieTicket.service
+com.asmita.movieTicket.service.impl
