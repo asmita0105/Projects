@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewPost</string>
+    <string name="title_activity_snack_bar">snackBar</string>
+    <string name="title_activity_browser_post">HyperGarageSale</string>
+    <string name="title_hint">Enter title of the item</string>
+    <string name="price_hint">Enter price</string>
+    <string name="desc_hint">Enter description of the item</string>
+    <string name="button_post">Post</string>
+    <string name="new_post_snackbar">Thanks for posting!</string>
+    <string name="id">ID</string>
+    <string name="pos">POS</string>
+</resources>
